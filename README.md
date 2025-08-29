@@ -1,6 +1,6 @@
 # Matsuno Shallow Water Model
 
-This model is under development and still needs to be tested (08/28)
+This model is under development and still needs to be tested (08/28/25)
 
 Implementation of Matsuno's (1966) linearized shallow water equations on an equatorial beta plane for studying Kelvin and Rossby wave dynamics.
 
