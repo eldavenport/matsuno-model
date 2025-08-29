@@ -13,10 +13,8 @@ References:
 
 import jax
 import jax.numpy as jnp
-import numpy as np
 import xarray as xr
 from dataclasses import dataclass
-from typing import Tuple, Optional
 
 
 @dataclass

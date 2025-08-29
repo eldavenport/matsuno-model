@@ -100,4 +100,4 @@ if __name__ == "__main__":
         print(f"\n🎉 Matsuno model ready for use!")
         print(f"   Run 'jupyter notebook matsuno_examples.ipynb' to see examples")
     else:
-        print(f"\n❌ Model has issues - check implementation")
+        print(f"\n❌ Model tests failed")
